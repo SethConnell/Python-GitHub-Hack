@@ -1,2 +1,2 @@
-email = "sethjordanconnell@gmail.com"
-linktorepo = "https://github.com/SethConnell/Python-GitHub-Hack"
+email = "" # fill with your own information.
+linktorepo = "" # fill with your own information.
